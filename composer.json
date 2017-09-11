@@ -8,5 +8,10 @@
             "email": "sptutusukanta@gmail.com"
         }
     ],
+    "autoload":{
+        "psr-4":{
+            "MySQLSmartSearch\\": "MySQLSmartSearch/"
+        }
+    },
     "require": {}
 }
