@@ -1,0 +1,1 @@
+MySQLSmartSearch is a library that brings power of advanced search using the simplicity of MySQL.

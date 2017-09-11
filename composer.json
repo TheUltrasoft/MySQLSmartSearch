@@ -1,0 +1,12 @@
+{
+    "name": "theultrasoft/mysql-smart-search",
+    "description": "Harness the power of advanced search in the simplicity of MySQL",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Sukanta Paul",
+            "email": "sptutusukanta@gmail.com"
+        }
+    ],
+    "require": {}
+}
